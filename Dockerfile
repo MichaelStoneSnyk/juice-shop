@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:22.5.0
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
