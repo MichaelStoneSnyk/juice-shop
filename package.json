@@ -279,5 +279,9 @@
       "angular",
       "inject"
     ]
+  },
+  "overrides": {
+    "vm2": "3.10.2",
+    "ws": "7.5.10"
   }
 }
