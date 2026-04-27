@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Snyk__snyk_sca_scan",
+      "Read(//Users/michaelstone/Desktop/juice-shop/**)",
+      "Bash(node -e ':*)",
+      "Bash(npm ls:*)"
+    ]
+  }
+}
